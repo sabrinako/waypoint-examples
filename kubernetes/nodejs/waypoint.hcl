@@ -1,7 +1,7 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
-project = "kubernetes-nodejs"
+project = "destroy-proj"
 
 app "kubernetes-nodejs-web" {
   labels = {

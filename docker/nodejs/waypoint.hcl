@@ -1,7 +1,7 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
-project = "example-nodejs"
+project = "docker-node"
 
 app "example-nodejs" {
   labels = {
